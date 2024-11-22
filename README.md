@@ -2,8 +2,8 @@
 - 👀 I’m interested in **network security**, **cryptography**, **IoT**, and **system administration**.
 - 🌱 I’m currently learning **advanced networking**, **cybersecurity techniques**, and **cloud computing**. I'm particularly focused on learning more about **cryptographic protocols** and **secure communication technologies**.
 - 💞️ I’m looking to collaborate on **security research projects**, **networking tools development**, and **open-source cybersecurity projects**. If you have any ideas or projects where I can contribute, feel free to reach out!
-- 📫 How to reach me: You can reach me via **email** at **bienvenudiatta@example.com** or on **LinkedIn** at **[LinkedIn Profile](https://www.linkedin.com/in/bienvenudiatta)**.
-- 😄 Pronouns: **He/Him**
+- 📫 How to reach me: You can reach me via **email** at **bienvenudiatta@10.com** or on **LinkedIn** at **[LinkedIn Profile](https://https://www.linkedin.com/in/bienvenu-diatta-58023b267/)**.
+- 😄 Pronouns: **He**
 - ⚡ Fun fact: **I once solved a complex networking challenge using only basic command-line tools**.
   
 ---
