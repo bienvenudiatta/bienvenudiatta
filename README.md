@@ -1,25 +1,92 @@
-- 👋 Hi, I’m @bienvenudiatta
-- 👀 I’m interested in **network security**, **cryptography**, **IoT**, and **system administration**.
-- 🌱 I’m currently learning **advanced networking**, **cybersecurity techniques**, and **cloud computing**. I'm particularly focused on learning more about **cryptographic protocols** and **secure communication technologies**.
-- 💞️ I’m looking to collaborate on **security research projects**, **networking tools development**, and **open-source cybersecurity projects**. If you have any ideas or projects where I can contribute, feel free to reach out!
-- 📫 How to reach me: You can reach me via **email** at **bienvenudiatta@10.com** or on **LinkedIn** at **[LinkedIn Profile](https://https://www.linkedin.com/in/bienvenu-diatta-58023b267/)**.
-- 😄 Pronouns: **He**
-- ⚡ Fun fact: **I once solved a complex networking challenge using only basic command-line tools**.
-  
+# 👋 Bonjour, je suis Bienvenu Diatta
+
+🚀 **Ingénieur Cybersécurité, Réseaux & Intelligence Artificielle (Junior)**  
+🔐 Passionné par la **sécurité des systèmes**, le **cloud**, le **SIEM** et le **Machine Learning**
+
 ---
 
-### About Me:
+## 👨‍💻 À propos de moi
 
-I’m currently pursuing my **Bachelor's in Systems, Networks, and Telecommunications** at **Université Alioune Diop de Bambey**. With a strong interest in **cybersecurity**, my goal is to explore the depth of network protection techniques, understand and implement cryptographic protocols, and contribute to building secure and efficient systems. 
+Je suis actuellement étudiant en **Master Systèmes & Réseaux** à l’*Université Alioune Diop de Bambey (UADB)*.
 
-I'm experienced in **network configurations**, **firewall setups**, and **network penetration testing**. Currently, I’m working on various personal projects related to **IoT security**, **VPN implementation**, and **cryptography algorithms**. 
+Je développe des compétences avancées en :
+- 🔐 Cybersécurité (offensive & défensive)
+- 🌐 Réseaux et systèmes
+- ☁️ Cloud & virtualisation
+- 🤖 Intelligence Artificielle appliquée à la data et à la sécurité
 
-### Skills:
+💡 Mon objectif est de concevoir des systèmes **sécurisés, intelligents et performants**.
 
-- **Programming Languages**: Java, Python, C, HTML, CSS, Pascal
-- **Security Tools**: Wireshark, Metasploit, Nmap, Kali Linux, UFW
-- **Networking**: TCP/IP, DNS, HTTP, VPN, DMZ, Subnetting
-- **Cryptography**: RSA, AES, Diffie-Hellman, SSL/TLS
-- **Frameworks/Technologies**: VPN, Firewall, IDS/IPS, Blockchain Security
+---
 
-I am always looking to expand my knowledge and collaborate with like-minded individuals on **security-focused initiatives**. If you share similar interests or need assistance in network security or cryptography, feel free to reach out!
+## 🚀 Portfolio
+
+🔗 **Mon portfolio :**  
+👉 https://portefolio-bien-02.netlify.app/
+
+---
+
+## 🛠️ Compétences
+
+### 🔐 Cybersécurité
+- SIEM : Wazuh, Snort, Suricata  
+- Pentesting : Nmap, Metasploit, Burp Suite  
+- Firewall & VPN : pfSense, OpenVPN  
+- Analyse de logs & détection d’intrusions  
+
+### 🌐 Réseaux & Systèmes
+- TCP/IP, DNS, HTTP, VLAN, Routage  
+- Active Directory, GPO, Windows Server  
+- Administration Linux (Debian, Ubuntu)  
+
+### ☁️ Cloud & Virtualisation
+- OpenShift / Kubernetes  
+- AWS (bases)  
+- VirtualBox, Hyper-V, VMware  
+
+### 🤖 Intelligence Artificielle & Data
+- Machine Learning : KNN, SVM, Random Forest, Gradient Boosting  
+- Régression : linéaire & logistique  
+- Prétraitement des données (normalisation, nettoyage, sélection)  
+- Évaluation des modèles (accuracy, précision, recall, validation croisée)  
+
+### 💻 Programmation
+- Java, Python, C, JavaScript  
+- MySQL  
+
+---
+
+## 🔥 Projets
+
+- 🔐 **SIEM & Cyber Lab** → Détection d’attaques (DoS, analyse de logs)  
+- 🌐 **Infrastructure Réseau Sécurisée** → Active Directory + pfSense + DMZ  
+- ☁️ **Architecture Cloud 3-Tiers** → Déploiement sur OpenShift  
+- 🤖 **Comparaison de modèles ML** → KNN, SVM, Random Forest avec optimisation  
+- 🔐 **VPN sécurisé** → pfSense + OpenVPN  
+
+---
+
+## 🤝 Collaboration
+
+Je suis ouvert à :
+- 💼 Stages en cybersécurité / IA / réseaux  
+- 🌍 Opportunités en remote  
+- 🤝 Projets open-source (cybersecurity & AI)  
+
+---
+
+## 📫 Contact
+
+- 📧 Email : **bienvenudiatta307@gmail.com**  
+- 💼 LinkedIn : https://www.linkedin.com/in/bienvenu-diatta-58023b267/  
+- 💻 GitHub : https://github.com/bienvenudiatta  
+
+---
+
+## ⚡ Fun fact
+
+> J’aime combiner cybersécurité et intelligence artificielle pour créer des systèmes intelligents et sécurisés 🔥
+
+---
+
+⭐ *Toujours apprendre, toujours construire, toujours sécuriser.*
